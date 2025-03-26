@@ -8,7 +8,7 @@ Prerequisites:
 - Default number of backups is 5.  Edit file to modify
 - Creates cronjob backup for 2 a.m. daily
 
-## (Optional) dismantle.sh
+## 1.5 (Optional) dismantle.sh
 - Destroys all data in /var/lib/docker/
 - Used for testing backup and restore
 
