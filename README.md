@@ -1,4 +1,5 @@
 # Docker Backup Scripts
+Backs up all docker containers on docker host
 
 Prerequisites: 
 - Run in root user context of docker host.
