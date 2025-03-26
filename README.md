@@ -1,5 +1,7 @@
 # Docker Backup Scripts
 
+Note: Run in root user context of docker host.
+
 ## perform-backup.sh
 - Backs up /var/lib/docker to /backup/docker/ on docker host
 
