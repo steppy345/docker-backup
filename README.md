@@ -5,6 +5,8 @@ Prerequisites:
 
 ## perform-backup.sh
 - Backs up /var/lib/docker to /backup/docker/ on docker host
+- Default number of backups is 5.  Edit file to modify
+- Creates cronjob backup for 2 a.m. daily
 
 ## dismantle.sh
 - Destroys all data in /var/lib/docker/
